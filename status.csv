@@ -1,0 +1,6 @@
+,Text
+0,"yesterday, I started working on creating the docker image for claim regression test data. Created dumps for
+member, member group, provider, and provider organization data. I still have to create dumps from claims, and pricing data.
+Once that is done, I will run the regression tests and push the final docker image to the docker hub. Apart from this, I am having 
+issues with the claim adjudication service. I am working with John on them."
+1,I WORKED ON USER INTERFACE. YESTERDAY I IMPLEMENTED LOGIN SCREEN. I RAISED FEW DEFECTS. TODAY I WILL WORK ON DEFECTS. I WILL LOOK INTO USER INTERFACE. I REQUIRE HELP FROM UX TEAM. I DON'T HAVE ANY IMPEDIMENTS

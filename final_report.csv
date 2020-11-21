@@ -1,0 +1,18 @@
+category,speaker,speech
+reported issues,speaker1,"yesterday, I started working on creating the docker image for claim regression test data"
+work has been done,speaker1," Created dumps for
+member, member group, provider, and provider organization data"
+reported issues,speaker1," I still have to create dumps from claims, and pricing data"
+work planned to do,speaker1,"
+Once that is done, I will run the regression tests and push the final docker image to the docker hub"
+reported issues,speaker1," Apart from this, I am having 
+issues with the claim adjudication service"
+reported issues,speaker1, I am working with John on them
+work planned to do,speaker1,
+work has been done,speaker2,I WORKED ON USER INTERFACE
+work has been done,speaker2, YESTERDAY I IMPLEMENTED LOGIN SCREEN
+work has been done,speaker2, I RAISED FEW DEFECTS
+work planned to do,speaker2, TODAY I WILL WORK ON DEFECTS
+work planned to do,speaker2, I WILL LOOK INTO USER INTERFACE
+reported issues,speaker2, I REQUIRE HELP FROM UX TEAM
+reported issues,speaker2, I DON'T HAVE ANY IMPEDIMENTS
